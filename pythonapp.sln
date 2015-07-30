@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python-openshift-source", "python-openshift-source.pyproj", "{C0C38225-A5D9-47A5-9265-B0DC2ABA9458}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonapp", "pythonapp.pyproj", "{C0C38225-A5D9-47A5-9265-B0DC2ABA9458}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
