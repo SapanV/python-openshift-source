@@ -1,0 +1,1 @@
+{"OpenShiftServer":"https://ose3-master.example.com:8443","ProjectName":"testproject","BuildConfig":"pythonapp","ServiceRoute":"http://pythonapp-testproject.cloudapps.example.com"}
